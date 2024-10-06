@@ -23,6 +23,7 @@
   * [Session Token](togetnote/functions/session-token.md)
   * [Account Deletion](togetnote/functions/deletion.md)
 * [Troubleshooting](togetnote/troubleshooting.md)
+* [API Document](togetnote/api-document.md)
 * [Release Notes](togetnote/release.md)
 * [Policy](togetnote/policy/README.md)
   * [Terms of Use](togetnote/policy/tos.md)
