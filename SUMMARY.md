@@ -13,6 +13,10 @@
 ## togetnote
 
 * [About](togetnote/about.md)
+* [Getting Started](togetnote/started/README.md)
+  * [Registration](togetnote/started/registration.md)
+  * [Important notes](togetnote/started/important.md)
+* [Release Notes](togetnote/release.md)
 * [Policy](togetnote/policy/README.md)
   * [Terms of Use](togetnote/policy/tos.md)
   * [Privacy Policy](togetnote/policy/privacy.md)
