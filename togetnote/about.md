@@ -1,6 +1,6 @@
 ---
-description: ここにはtogetnoteについて書かれていたり、名前の由来や開発者について書かれています。
 icon: info
+description: ここにはtogetnoteについて書かれていたり、名前の由来や開発者について書かれています。
 ---
 
 # About
@@ -30,3 +30,5 @@ togetnoteでは文字数制限が存在します。まずタイトルの最大�
 ### Developer
 
 開発、運営はZistyに所属する**PIENNU**によって行われ、アイデアはZistyに所属する**Syobosyobonn**のものとなっています。個人開発なのでいつ飽きてサ終するかわかりません。その時はご了承ください...
+
+togetnoteはZistyの製品ではありません。
