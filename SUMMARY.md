@@ -22,6 +22,7 @@
   * [Login log](togetnote/functions/log.md)
   * [Session Token](togetnote/functions/session-token.md)
   * [Account Deletion](togetnote/functions/deletion.md)
+  * [TOKEN](togetnote/functions/token.md)
 * [Troubleshooting](togetnote/troubleshooting.md)
 * [API Document](togetnote/api-document.md)
 * [Release Notes](togetnote/release.md)
