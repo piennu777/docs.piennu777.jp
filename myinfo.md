@@ -1,6 +1,6 @@
 ---
-description: ここではPIENNUについてが書かれています。ビッシリと（）
 icon: user
+description: ここではPIENNUについてが書かれています。ビッシリと（）
 ---
 
 # My info
@@ -25,5 +25,5 @@ icon: user
 
 ### SNS
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>YouTube</strong></td><td>ウィルスに感染し、それを修復する動画などを投稿しています。</td><td></td><td><a href="https://www.youtube.com/@piennu_777/">https://www.youtube.com/@piennu_777/</a></td></tr><tr><td><strong>Twitter</strong></td><td>ほぼ毎日ここにいます。ちょくちょく投稿してます。ぜひチェック！</td><td></td><td><a href="https://x.com/piennu_777">https://x.com/piennu_777</a></td></tr><tr><td><strong>Github</strong></td><td>サービスやツールの配布やソースの公開などをここで行っています。</td><td></td><td><a href="https://github.com/piennu777">https://github.com/piennu777</a></td></tr><tr><td><strong>Discord</strong></td><td>自分が管理している鯖です。毎日ここにいます。何か用事などがあればぜひ。</td><td></td><td><a href="https://discord.gg/Nr8j73qQUD">https://discord.gg/Nr8j73qQUD</a></td></tr><tr><td><strong>Misskey.io</strong></td><td>マジでたまにログインする程度であまりここにはいません。</td><td></td><td><a href="https://misskey.io/@piennu777">https://misskey.io/@piennu777</a></td></tr><tr><td><strong>ゆずねっと</strong></td><td>たま～～～にログインするぐらいであまりいません。</td><td></td><td><a href="https://uwuzu.net/@piennu_777">https://uwuzu.net/@piennu_777</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>YouTube</strong></td><td>ウィルスに感染し、それを修復する動画などを投稿しています。</td><td></td><td><a href="https://www.youtube.com/@piennu_777/">https://www.youtube.com/@piennu_777/</a></td></tr><tr><td><strong>Twitter</strong></td><td>ほぼ毎日ここにいます。ちょくちょく投稿してます。ぜひチェック！</td><td></td><td><a href="https://x.com/piennu_777">https://x.com/piennu_777</a></td></tr><tr><td><strong>Github</strong></td><td>サービスやツールの配布やソースの公開などをここで行っています。</td><td></td><td><a href="https://github.com/piennu777">https://github.com/piennu777</a></td></tr><tr><td><strong>Discord</strong></td><td>自分が管理している鯖です。毎日ここにいます。何か用事などがあればぜひ。</td><td></td><td><a href="https://discord.gg/Nr8j73qQUD">https://discord.gg/Nr8j73qQUD</a></td></tr><tr><td><strong>Misskey.io</strong></td><td>マジでたまにログインする程度であまりここにはいません。</td><td></td><td><a href="https://misskey.io/@piennu777">https://misskey.io/@piennu777</a></td></tr><tr><td><strong>ゆずねっと</strong></td><td>たま～～～にログインするぐらいであまりいません。</td><td></td><td><a href="https://uwuzu.net/@piennu_777">https://uwuzu.net/@piennu_777</a></td></tr><tr><td>Bluesky</td><td>たま～～にログインしてます。たまにです。たまに。</td><td></td><td><a href="https://bsky.app/profile/piennu777.jp">https://bsky.app/profile/piennu777.jp</a></td></tr></tbody></table>
 
